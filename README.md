@@ -1,1 +1,3 @@
-# git-learning-lab-ZaneArberga
+# git-learning-lab-ZaneArberga 
+students.md
+#Studentu saraksts
